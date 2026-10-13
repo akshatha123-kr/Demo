@@ -1,0 +1,2 @@
+str="ak"
+print(str)
